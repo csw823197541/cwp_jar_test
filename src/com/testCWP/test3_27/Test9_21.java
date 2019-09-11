@@ -2,9 +2,9 @@ package com.testCWP.test3_27;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import com.shbtos.biz.smart.cwp.service.SmartCraneAllocationResults;
+import com.shbtos.biz.smart.cwp.pojo.inputs.SmartCwpImportData;
+import com.shbtos.biz.smart.cwp.pojo.results.SmartCraneAllocationResults;
 import com.shbtos.biz.smart.cwp.service.SmartCwpGenerator;
-import com.shbtos.biz.smart.cwp.service.SmartCwpImportData;
 import com.testCWP.utils.FileUtil;
 
 import java.io.File;

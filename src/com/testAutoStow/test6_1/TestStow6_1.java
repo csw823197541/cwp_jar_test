@@ -1,8 +1,8 @@
 package com.testAutoStow.test6_1;
 
 import com.autoStow.caller.manager.AutoStowManager;
-import com.shbtos.biz.smart.cwp.service.SmartStowImportData;
-import com.shbtos.biz.smart.cwp.service.SmartStowResults;
+import com.shbtos.biz.smart.cwp.pojo.inputs.SmartStowImportData;
+import com.shbtos.biz.smart.cwp.pojo.results.SmartStowResults;
 import com.testAutoStow.jsonProcess.JsonIO;
 import com.testAutoStow.utils.FileUtil;
 

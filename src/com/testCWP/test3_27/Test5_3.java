@@ -1,11 +1,9 @@
 package com.testCWP.test3_27;
 
-import com.shbtos.biz.smart.cwp.pojo.SmartCranePoolInfo;
-import com.shbtos.biz.smart.cwp.pojo.SmartVesselCranePoolInfo;
-import com.shbtos.biz.smart.cwp.service.SmartCwp3Results;
+import com.shbtos.biz.smart.cwp.pojo.inputs.SmartCwpImportData;
+import com.shbtos.biz.smart.cwp.pojo.results.SmartCwp3Results;
+import com.shbtos.biz.smart.cwp.pojo.results.SmartCwpResults;
 import com.shbtos.biz.smart.cwp.service.SmartCwpGenerator;
-import com.shbtos.biz.smart.cwp.service.SmartCwpImportData;
-import com.shbtos.biz.smart.cwp.service.SmartCwpResults;
 import com.testCWP.jsonProcess.JsonIO;
 import com.testCWP.utils.FileUtil;
 

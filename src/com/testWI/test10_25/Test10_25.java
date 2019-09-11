@@ -1,7 +1,7 @@
 package com.testWI.test10_25;
 
-import com.shbtos.biz.smart.cwp.service.SmartWiImportData;
-import com.shbtos.biz.smart.cwp.service.SmartWiResults;
+import com.shbtos.biz.smart.cwp.pojo.inputs.SmartWiImportData;
+import com.shbtos.biz.smart.cwp.pojo.results.SmartWiResults;
 import com.testWI.jsonProcess.JsonIO;
 import com.testWI.utils.FileUtil;
 import com.wids.manager.data.AllData;

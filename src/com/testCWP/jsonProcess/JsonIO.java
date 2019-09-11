@@ -1,7 +1,7 @@
 package com.testCWP.jsonProcess;
 
 import com.google.gson.Gson;
-import com.shbtos.biz.smart.cwp.service.SmartCwpImportData;
+import com.shbtos.biz.smart.cwp.pojo.inputs.SmartCwpImportData;
 
 /**
  * Created by lekoxnfx on 2017/2/14.

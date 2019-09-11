@@ -1,7 +1,7 @@
 package com.testWI.jsonProcess;
 
 import com.google.gson.Gson;
-import com.shbtos.biz.smart.cwp.service.SmartWiImportData;
+import com.shbtos.biz.smart.cwp.pojo.inputs.SmartWiImportData;
 
 /**
  * Created by csw on 2017/4/13.
